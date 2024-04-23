@@ -29,8 +29,6 @@ Process: Each frame captured by OpenCV is flipped (to mimic a mirror) and conver
 Purpose: To provide visual feedback to the user by highlighting keys that are being "pressed" by the fingertips.
 Process: When a fingertip's position corresponds to a key's area, that key is redrawn with a different color to signify it is pressed. This feedback helps users understand which notes they are playing.
 
-![image](https://github.com/vedb1211/Music-Generation-using-Virtual-Piano/assets/106091820/7fd30188-dee1-460b-872c-87cfc28b7066)
-
 
 **Sound Playback**
 Purpose: To audibly play the note associated with the pressed key, enhancing the piano-playing experience.
