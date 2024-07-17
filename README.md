@@ -1,5 +1,8 @@
 # Music-Generation-using-Virtual-Piano
 
+![image](https://github.com/user-attachments/assets/b95330fa-b9d9-418b-9ef0-66c5e93f2064)
+
+
 
 ## Technologies Used:
 Python: Programming language used for the implementation of the project.
